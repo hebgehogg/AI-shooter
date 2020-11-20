@@ -5244,3 +5244,115 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.20-20.36.57:735][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
 [2020.11.20-20.36.57:782][680]LogPlayLevel: Display: Destroying online subsystem :Context_97
 [2020.11.20-20.37.22:785][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.20-20.46.56:003][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.11.20-20.46.56:028][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.107
+[2020.11.20-20.46.56:060][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/PointB] ([1] browsable assets)...
+[2020.11.20-20.46.56:143][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UI/PointB.PointB]
+[2020.11.20-20.46.56:143][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PointB]
+[2020.11.20-20.46.56:143][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PointB" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Autosaves/Game/UI/PointB_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.11.20-20.46.56:328][ 58]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/PointB_Auto59982F0324AB745C65DC4DA86B6F8483C.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Autosaves/Game/UI/PointB_Auto5.uasset'
+[2020.11.20-20.46.56:330][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/GeneralFloor] ([1] browsable assets)...
+[2020.11.20-20.46.56:330][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/GeneralFloor]
+[2020.11.20-20.46.56:428][ 58]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/GeneralFloor_Auto51FC096F5498D79717A9385861E82B8BA.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Autosaves/Game/FirstPersonBP/Maps/GeneralFloor_Auto5.uasset'
+[2020.11.20-20.46.56:445][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Death] ([1] browsable assets)...
+[2020.11.20-20.46.56:445][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Death]
+[2020.11.20-20.46.56:445][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Death" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Autosaves/Game/UI/Death_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.11.20-20.46.56:495][ 58]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Death_Auto5CA89E63B4ECEF8C99E3DDAA6C3767FD2.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Autosaves/Game/UI/Death_Auto5.uasset'
+[2020.11.20-20.46.56:506][ 58]LogFileHelpers: Auto-saving content packages took 0.469
+[2020.11.20-20.48.55:380][413]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-20.48.55:380][413]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-20.48.56:910][488]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.20-20.48.56:942][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.20-20.48.56:942][488]PIE: New page: PIE session: FirstPersonExampleMap (21 нояб. 2020 г., 06:48:56)
+[2020.11.20-20.48.56:946][488]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.20-20.48.57:406][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.459540s)
+[2020.11.20-20.48.57:449][488]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.20-20.48.57:459][488]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234F1D2A600), frame # 650488
+[2020.11.20-20.48.57:459][488]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002340E26E480), frame # 650488
+[2020.11.20-20.48.57:460][488]LogPlayLevel: PIE: World Init took: (0.053151s)
+[2020.11.20-20.48.57:461][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.514087s)
+[2020.11.20-20.48.57:489][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.20-20.48.57:492][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.20-20.48.57:492][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.20-20.48.57:506][488]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.20-20.48.57:506][488]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.20-20.48.57:521][488]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-20.48.57:521][488]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-20.48.57:580][488]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.20-20.48.57:583][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.20-20.48.57:583][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.20-20.48.57:584][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.20-20.48.57:588][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.20-20.48.57:602][488]LogInit: FAudioDevice initialized.
+[2020.11.20-20.48.57:686][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-20.48.57:698][488]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.20-20.48.57:755][488]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.21-01.48.57
+[2020.11.20-20.48.57:779][488]LogWorld: Bringing up level for play took: 0.079842
+[2020.11.20-20.48.57:780][488]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2020.11.20-20.48.57:876][488]PIE: Server logged in
+[2020.11.20-20.48.57:879][488]PIE: Play in editor total start time 0,938 seconds.
+[2020.11.20-20.49.18:019][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-20.49.18:019][350]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.20-20.49.18:021][350]LogSlate: Window 'AIShooter Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.20-20.49.18:033][350]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-20.49.18:048][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-20.49.18:062][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.20-20.49.18:085][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-20.49.18:152][350]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002340E26E480), frame # 651350
+[2020.11.20-20.49.18:152][350]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000234F1D2A600), frame # 651350
+[2020.11.20-20.49.18:177][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.11.20-20.49.18:236][351]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.11.20-20.49.41:587][457]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-20.49.41:587][457]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-21.09.27:949][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-21.09.27:949][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-21.09.29:952][107]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2020.11.20-21.09.32:713][107]LogSlate: Window 'Save Content' being destroyed
+[2020.11.20-21.09.32:819][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GeneralFloor" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/GeneralFloor.uasset" SILENT=true
+[2020.11.20-21.09.32:866][107]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/GeneralFloor9510BF4346445FC51DA7E38E18D44435.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/GeneralFloor.uasset'
+[2020.11.20-21.09.32:873][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Death" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/UI/Death.uasset" SILENT=true
+[2020.11.20-21.09.32:898][107]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/DeathE83883C34E26395D7C3460A0F78A23F6.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/UI/Death.uasset'
+[2020.11.20-21.09.32:908][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PointB" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/UI/PointB.uasset" SILENT=true
+[2020.11.20-21.09.32:938][107]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/PointB13958F5344605B25C3ACF39854825A46.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/UI/PointB.uasset'
+[2020.11.20-21.09.33:585][107]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.33:586][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-21.09.34:167][107]LogSlate: Window 'AIShooter - Unreal Editor' being destroyed
+[2020.11.20-21.09.36:779][107]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.20-21.09.36:779][107]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Maps/GeneralFloor.GeneralFloor
+[2020.11.20-21.09.36:779][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Death.Death
+[2020.11.20-21.09.36:780][107]LogContentValidation: Display: Validating Blueprint /Game/UI/PointB.PointB
+[2020.11.20-21.09.36:862][108]Cmd: QUIT_EDITOR
+[2020.11.20-21.09.36:871][108]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.20-21.09.36:977][108]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.20-21.09.37:773][108]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-21.09.37:883][108]LogExit: Preparing to exit.
+[2020.11.20-21.09.39:835][108]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:846][108]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:854][108]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:863][108]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.20-21.09.39:869][108]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:874][108]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:880][108]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.39:886][108]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.41:284][108]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.20-21.09.42:068][108]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-21.09.42:104][108]LogExit: Editor shut down
+[2020.11.20-21.09.42:125][108]LogExit: Transaction tracking system shut down
+[2020.11.20-21.09.46:824][108]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000233A58AEEC0), frame # 655108
+[2020.11.20-21.09.46:824][108]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000233A5865080), frame # 655108
+[2020.11.20-21.09.46:857][108]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000233A58D0A00), frame # 655108
+[2020.11.20-21.09.50:712][108]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002339CD46400), frame # 655108
+[2020.11.20-21.09.50:712][108]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002339DB020C0), frame # 655108
