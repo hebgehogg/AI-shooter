@@ -84,7 +84,7 @@ Goal: добраться до точки "В" живым.
 ![Враг](https://github.com/hebgehogg/AIShooter/blob/main/Photos/AI.png)
 
 
-# fireballs 
+# Fireballs 
 
 Ими стреляет как и игрок, так и ИИ в него.
 
