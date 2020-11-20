@@ -12067,3 +12067,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.20-00.23.35:789][464]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.20-00.23.35:789][464]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.11.20-00.23.35:789][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.20-00.26.34:571][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.20-00.26.51:341][201]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/Maps/Materials/Mat_Map1_4.Mat_Map1_4
+[2020.11.20-00.26.51:439][201]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.52:010][201]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.52:025][201]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.52:043][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.11.20-00.26.52:043][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.11.20-00.26.52:043][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.11.20-00.26.52:043][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.11.20-00.26.52:049][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.20-00.26.53:742][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.11.20-00.26.54:423][266]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.20-00.26.54:911][282]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.54:938][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.11.20-00.26.54:947][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.20-00.26.55:195][290]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.11.20-00.26.56:703][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.11.20-00.26.56:703][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.11.20-00.26.57:232][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.11.20-00.26.57:509][356]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.57:532][356]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.57:574][356]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.20-00.26.57:704][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.11.20-00.26.58:718][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.11.20-00.26.59:011][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.11.20-00.26.59:174][407]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.26.59:359][412]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.11.20-00.27.00:583][451]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.11.20-00.27.00:975][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.11.20-00.27.01:313][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.11.20-00.27.01:570][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.11.20-00.27.02:571][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.11.20-00.27.02:884][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.20-00.27.02:919][511]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.11.20-00.27.04:302][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.11.20-00.27.04:335][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.11.20-00.27.04:994][562]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.20-00.27.05:225][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.20-00.27.05:420][573]LogMaterialEditor: Saving and Compiling material Mat_Map1_4
+[2020.11.20-00.27.06:610][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.20-00.27.06:610][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.20-00.27.06:610][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.11.20-00.27.06:631][573]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.27.06:692][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.11.20-00.27.06:781][573]LogMaterial: Display: Missing cached shader map for material Mat_Map1_4, compiling. 
+[2020.11.20-00.27.06:922][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.11.20-00.27.06:932][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.11.20-00.27.06:942][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.20-00.27.07:507][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.11.20-00.27.07:507][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.11.20-00.27.08:066][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.11.20-00.27.08:066][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.11.20-00.27.08:066][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.11.20-00.27.08:066][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.11.20-00.27.08:625][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.11.20-00.27.08:625][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.11.20-00.27.09:184][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.11.20-00.27.09:184][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.11.20-00.27.09:184][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.11.20-00.27.09:536][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.11.20-00.27.09:536][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.11.20-00.27.09:536][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.11.20-00.27.09:536][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.11.20-00.27.09:543][573]TextureStreamingBuild: Display: Compiling optional shaders took 2.611 seconds.
+[2020.11.20-00.27.09:601][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.11.20-00.27.12:001][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.20-00.27.12:558][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.20-00.27.13:117][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.11.20-00.27.13:676][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.20-00.27.14:162][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Materials/Mat_Map1_4" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/Materials/Mat_Map1_4.uasset" SILENT=true
+[2020.11.20-00.27.14:181][573]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Mat_Map1_483A9E4A24A5DC628420EA08EDEA25ACF.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/Materials/Mat_Map1_4.uasset'
+[2020.11.20-00.27.14:246][573]AssetCheck: New page: Asset Save: Mat_Map1_4
+[2020.11.20-00.27.14:247][573]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Maps/Materials/Mat_Map1_4.Mat_Map1_4
+[2020.11.20-00.27.14:255][573]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.11.20-00.27.14:255][573]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.11.20-00.27.14:256][573]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.11.20-00.27.14:256][573]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.20-00.27.14:256][573]MaterialEditorStats: Texture samplers: 3/16
+[2020.11.20-00.27.16:706][683]LogMaterialEditor: Saving and Compiling material Mat_Map1_4
+[2020.11.20-00.27.16:755][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Materials/Mat_Map1_4" FILE="C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/Materials/Mat_Map1_4.uasset" SILENT=true
+[2020.11.20-00.27.16:799][683]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/Mat_Map1_497497867416531C60CE03C8434635430.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/Materials/Mat_Map1_4.uasset'
+[2020.11.20-00.27.16:825][683]AssetCheck: New page: Asset Save: Mat_Map1_4
+[2020.11.20-00.27.16:826][683]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Maps/Materials/Mat_Map1_4.Mat_Map1_4
+[2020.11.20-00.27.28:505][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.20-00.27.30:180][307]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI2)
+[2020.11.20-00.27.34:941][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.20-00.27.38:858][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.20-00.27.38:907][683]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/FirstPersonExampleMap72D871BC412EDDB2CEF82D843A9A8790.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.20-00.27.39:232][683]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Saved/FirstPersonExampleMap_BuiltDataDCC591DF4A31A67A56871389FE2D9CB3.tmp' to 'C:/Users/hebgehog/Documents/GitHub/AIShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.20-00.27.39:246][683]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.20-00.27.39:246][683]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.20-00.27.39:246][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.20-00.27.40:605][743]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.20-00.27.40:630][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.20-00.27.40:630][743]PIE: New page: PIE session: FirstPersonExampleMap (20 нояб. 2020 г., 10:27:40)
+[2020.11.20-00.27.40:630][743]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.20-00.27.40:653][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023039s)
+[2020.11.20-00.27.40:656][743]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.20-00.27.40:656][743]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BBA711E200), frame # 201743
+[2020.11.20-00.27.40:656][743]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BAAB7AFD80), frame # 201743
+[2020.11.20-00.27.40:656][743]LogPlayLevel: PIE: World Init took: (0.002556s)
+[2020.11.20-00.27.40:656][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025887s)
+[2020.11.20-00.27.40:697][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.20-00.27.40:698][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.20-00.27.40:698][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.20-00.27.40:699][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.20-00.27.40:699][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.20-00.27.40:701][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-00.27.40:702][743]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-00.27.40:748][743]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.20-00.27.40:748][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.20-00.27.40:748][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.20-00.27.40:748][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.20-00.27.40:749][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.20-00.27.40:771][743]LogInit: FAudioDevice initialized.
+[2020.11.20-00.27.40:779][743]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.20-00.27.40:782][743]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.20-05.27.40
+[2020.11.20-00.27.40:783][743]LogWorld: Bringing up level for play took: 0.002753
+[2020.11.20-00.27.40:784][743]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.11.20-00.27.40:787][743]PIE: Server logged in
+[2020.11.20-00.27.40:787][743]PIE: Play in editor total start time 0,16 seconds.
+[2020.11.20-00.27.52:806][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-00.27.52:806][310]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.20-00.27.52:807][310]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-00.27.52:807][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-00.27.52:821][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.20-00.27.52:825][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-00.27.52:883][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-00.27.52:884][310]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BAAB7AFD80), frame # 202310
+[2020.11.20-00.27.52:884][310]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BBA711E200), frame # 202310
+[2020.11.20-00.27.52:886][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.11.20-00.27.52:926][311]LogPlayLevel: Display: Destroying online subsystem :Context_44
